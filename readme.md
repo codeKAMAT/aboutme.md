@@ -1,5 +1,5 @@
 ## Who Am I?
-My name is **Sachin Kumar Kamat**. And I'm currently a 3rd year Bachelors of computer applications student at Manav Rachna International Institute of Research Studies in Faridabad India. I love to explore technology and always strive to learn a new skill. I always tend to help people when they ask a question in regards to web development, programming and technology. For this reason I have created a blog instagram.com/codekamat/ (https://www.instagram.com/codekamat/) 
+My name is **Sachin Kumar Kamat**. And I'm currently a 3rd year Bachelors of computer applications student at Manav Rachna International Institute of Research Studies in Faridabad India. I love to explore technology and always strive to learn a new skill. I always tend to help people when they ask a question in regards to web development, programming and technology. For this reason I have created a Micro-blog (https://www.instagram.com/codekamat/) 
 I’m also Udacity Scholar for Secure and Private AI Challenge and studying that to complete for a nanodegree.
 
 
